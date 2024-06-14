@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/down-arrow.svg";
+import arrowSvg from "../images/portadaleyna2.svg";
 import PropTypes from "prop-types";
 
 /**
@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/fondo_1.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "Empowering Women in Tech Student: Emphasize the youth and potential of new generations of women in the technology field.Office environment: Represent the professional space where women seek to thrive.";
 
 const Home = ({ name, title }) => {
   return (

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portafolio2.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Frase que inspira";
 
 /**
  * Project list
@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Nasa Space Apps Challenge El Alto",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Logistics Lead is responsible for the overall planning and execution of the hackathon's logistics. This includes tasks such as: Securing and managing the venue Coordinating transportation and accommodation for participants and staff Managing food an  bev rage",
+    url: "https://www.facebook.com/leynavarinia.pachecoquisbert/posts/10233209425564033",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Líder de Logística",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Get ready to be inspired by her curiosity about new technologies that drives her to seek a more inclusive and diverse world in the field of technology",
+    url: "https://www.facebook.com/leynavarinia.pachecoquisbert/posts/10232996153552366",
   },
   {
-    title: "My Resume Site",
+    title: "Nasa Space Apps Challenge El Alto #Hackatón global ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Highly innovative and creative projects to transform the reality of the world were presented and defended by the participants of this impactful",
+    url: "https://www.facebook.com/UnifranzElAltoOficial/posts/371034141918985",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "En conmemoración del día de la Madre💕 te presentamos  el cronograma del Domingo 26 de mayo de la 8va versión de #mujeresqueinspiran ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "We invite you to join this talk that inspires you to be more efficient with #mujerqueinspiranbolivia, if you have not yet registered you can do so here: 📅Date: May 25 and 26 🚀Virtual Event",
+    url: "https://www.facebook.com/mujeresqueinspiranBolivia/posts/471891038843735",
+  },
+  {
+    title: "Topic: “Digital Brain With Obsidian”",
+    description:
+      "Do you accumulate information that you never use? Reading and learning are worthless if we do not know how to process correctly. Register so you don't miss an incredible talk: March 8 and 9: IWD El Alto 2024: Traces of Empowerment, Flourishing with Strength and Freedom!",
+    url: "https://www.facebook.com/photo?fbid=243727748812232&set=a.233399016511772",
+  },
+  {
+    title: " Hackaton: Before You Click 2022",
+    description:
+      "MENTOR For 3 days, 5 teams of students from #Law, #SystemsEngineering and #Psychology worked together to design and build technological solutions to combat cyberbullying. 💻🕵",
+    url: "https://www.facebook.com/permalink.php?story_fbid=430446702616305&id=100069529353738",
   },
 ];
 

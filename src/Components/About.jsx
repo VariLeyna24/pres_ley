@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "my personal portfolio";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an expert in web development, data analysis, database management and artificial intelligence, with extensive experience in creating innovative and efficient solutions.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
